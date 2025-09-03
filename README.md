@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Python and Creative Solutions**
 
-- ⚡ Fun fact **I can crack jokes and Exams** 
-
--  🎮 Check out these new games/ideas! **Collect the dinos and Divisibility test remastered**
+- ⚡ Fun fact **I can crack jokes and Exams**
+  
+-  🎮 Check out these new games/ideas! **Collect the dinos[https://vihaanbadola5.github.io/divisibility-test-of-7-and-11-remastered/] and Divisibility test remastered**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rabbit.bunnythe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rabbit.bunnythe" height="30" width="40" /></a>
