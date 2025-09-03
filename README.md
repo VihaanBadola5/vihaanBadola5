@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vihaan Badola</h1>
-<h3 align="center">A srudent in Bal Bhavan Public School</h3>
+<h3 align="center">A student in Bal Bhavan Public School</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vihaanbadola5&label=Profile%20views&color=0e75b6&style=flat" alt="vihaanbadola5" /> </p>
 
